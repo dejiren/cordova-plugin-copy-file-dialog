@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-copy-file-dialog",
+  "version": "0.0.1",
+  "description": "I want to copy the file to my selected space by dialog in Cordova.",
+  "main": "index.js",
+  "types": "./types/index.d.ts",
+  "repository": "git@github.com:dejiren/cordova-plugin-copy-file-dialog.git",
+  "author": "ossun.l <ossun.l@wingarc.com>",
+  "cordova": {
+    "id": "cordova-plugin-copy-file-dialog",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "file",
+    "copy",
+    "save",
+    "move",
+    "dialog"
+  ],
+  "bugs": {
+    "url": "https://github.com/dejiren/cordova-plugin-copy-file-dialog/issues"
+  },
+  "homepage": "https://github.com/dejiren/cordova-plugin-copy-file-dialog#readme"
+}
