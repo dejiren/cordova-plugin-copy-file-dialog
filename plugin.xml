@@ -15,7 +15,7 @@
             <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
         </config-file>
         <source-file src="src/android/CopyDialog.java" target-dir="src/io/github/sonlicao" />
-        <source-file src="src/android/res/xml/opener_paths.xml" target-dir="res/xml" />
+        <source-file src="src/android/res/xml/copyfile_paths.xml" target-dir="res/xml" />
         <preference name="ANDROID_SUPPORT_V4_VERSION" default="27.+"/>
         <framework src="com.android.support:support-v4:$ANDROID_SUPPORT_V4_VERSION"/>
         <js-module src="www/android/CopyDialog.js" name="CopyDialog">
