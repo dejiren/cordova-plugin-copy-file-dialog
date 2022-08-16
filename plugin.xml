@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-copy-dialog" version="1.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-copy-file-dialog" version="1.0.0">
     <name>Copy Dialog</name>
     <description>Cordova plugin for opening the native Copy dialog and copy a file in the user-selected location</description>
     <license>MIT</license>
